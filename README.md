@@ -4,6 +4,12 @@ Tool that will compile your code and also has a HTML, CSS, JS Editor embedded in
   * C++
   * Java
   * Python
+
+## Accessing App
+
+The web and default interfaces in the app run fine locally but in production default shows some issues.
+
+The live app can be seen [here](https://mini-code-editor.herokuapp.com/)
   
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -43,7 +49,4 @@ cd client
 npm start
 ```
 
-The web and default interfaces in the app run fine locally but in production default shows some issues.
-
-The live app can be seen [here](https://mini-code-editor.herokuapp.com/)
 
