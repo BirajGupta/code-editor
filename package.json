@@ -8,7 +8,7 @@
     "dev": "nodemon server.js",
     "start": "node server/server.js",
     "heroku-postbuild": "cd client && npm install && npm run build",
-    "build": "cd client && npm install && CI= snpm run build"
+    "build": "cd client && npm install && CI= npm run build"
   },
   "author": "fab",
   "license": "ISC",
